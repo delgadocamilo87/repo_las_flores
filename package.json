@@ -1,0 +1,25 @@
+{
+  "name": "repo_las_flores",
+  "version": "1.0.0",
+  "description": "Repo fip las flores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delgadocamilo87/repo_las_flores.git"
+  },
+  "author": "Camilo Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delgadocamilo87/repo_las_flores/issues"
+  },
+  "homepage": "https://github.com/delgadocamilo87/repo_las_flores#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.1"
+  }
+}
